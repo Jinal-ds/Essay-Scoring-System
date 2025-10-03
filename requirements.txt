@@ -4,4 +4,5 @@ torch
 streamlit
 nltk
 transformers
+plotly
 matplotlib 
